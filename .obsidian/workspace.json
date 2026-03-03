@@ -197,6 +197,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3f04f0df7e0f3b02",
-  "lastOpenFiles": []
+  "active": "4060db6a6c5ff381",
+  "lastOpenFiles": [
+    "templaters/test.md",
+    "templaters"
+  ]
 }
